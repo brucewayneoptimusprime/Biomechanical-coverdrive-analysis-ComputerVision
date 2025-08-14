@@ -15,7 +15,7 @@ This repository contains a real-time computer vision system for evaluating crick
 ├── Stunning cover drive ....mp4            # Input video (YouTube Short, pre-downloaded)
 ├── README.md                               # Project documentation
 ├── LICENSE                                 # MIT License
-├── requirements.txt                        # Base requirements of library if somewhere wishes to continue using Ppy file
+├── requirements.txt                        # Base requirements of library if somewhere wishes to continue using py file
 ```
 
 ---
